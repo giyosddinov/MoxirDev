@@ -1,0 +1,6 @@
+Selsiy gradusidan Kelvin, Farengeyt va boshqalarga convert
+qilish uchun BaseConverter sinfini yozing. Sinfda konvertatsiya
+qilish methodi bo'lishi kerak. Masalani qo’yilishiga qarab, interface
+yoki abstract classdan foydalaning. (Selsiydan Kelvin, Farengeyt ga o’tish
+uchun internetdan formulasini topib ishlang)
+
