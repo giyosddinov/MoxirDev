@@ -1,0 +1,16 @@
+* Vaqt (Model A file da berilgan)
+Vaqt namunasini modellashtiradigan MyTime classi, class  diagrammasida ko'rsatilganidek ishlab chiqing. 
+Unda quyidagi xususiy misol oʻzgaruvchilari mavjud:
+soat: 0 dan 23 gacha.
+daqiqa: 0 dan 59 gacha.
+sekund: 0 dan 59 gacha
+Siz qiymat kiritayotganda tekshirishni amalga oshirishingiz kerak. Ya’ni soat [0;23], daqiqa [0;59], sekund [0;59].
+Class quyidagi public methodlarni o'z ichiga oladi:
+setTime (int soat, int daqiqa, int soniya): Ushbu metod o'zgaruvchilarini o'rnatishdan oldin berilgan soat, daqiqa va soniyaning haqiqiyligini tekshirishi kerak.
+(Qo’shimcha: Aks holda, u "Yaroqsiz soat, daqiqa yoki soniya!" xabari chiqarsin.)
+Setters: setHour(int soat), setMinute(int minut), setSecond(int soniya);
+Getters: getHour(), getMinute(), getSecond().
+toString(): "HH:MM:SS" ni qaytaradi.
+nextSecond(): Ushbu obyektni keyingi soniyaga yangilang va bu obyektni qaytaring. 23:59:59 ni nextSecond()  qilsak natija 00:00:00 ekanligini unutmang.
+nextMinute(), nextHour(), previousSecond(), previousMinute(), oldingiHour(): yuqoridagiga oʻxshash qoida asosida logikasini yozing.
+MyTime sinfi uchun kodni yozing. MyTime sinfida belgilangan barcha umumiy usullarni sinab ko'rish uchun Main clasining main methodida Obyekt olib ishlating.
