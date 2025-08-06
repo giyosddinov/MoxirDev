@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18a2d9b1-5c66-4cf5-808c-47ec3722384e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkendList1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maxsulor_Kiritish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maxsulotlar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mustahkamlash.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimadir.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Collections/ArrayList_Mustahkamlash/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Collections/ArrayList_Mustahkamlash/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Collections/ArrayList_Mustahkamlash/nimadir.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Collections/Main.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="30uImMscQH5O6m34CMdcwgB0Z7a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/01/Desktop/Java Project/MoxirDev/Moxir_Dev/Java Collections/Mustahkamlash"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Mustahkamlash" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18a2d9b1-5c66-4cf5-808c-47ec3722384e" name="Changes" comment="" />
+      <created>1754471188498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754471188498</updated>
+    </task>
+    <servers />
+  </component>
+</project>
