@@ -32,7 +32,7 @@ public class HashSetLesson {
         }
         System.out.println("1)Barcha Noyob So'zlar -> "+noyob_sozlar);
         for(String s:noyob_sozlar){
-            
+
         }
     }
 
