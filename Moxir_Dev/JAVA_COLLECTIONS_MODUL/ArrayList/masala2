@@ -1,0 +1,6 @@
+ArrayList topshiriqlar 2:
+a) Ixtiyoriy ma’lumot bilan to’ldirilgan ArrayList yarating.
+Hamda to’plamning ichidan elementlarni biror qiymat bo’yicha qidiring.
+Qidirgan elementingiz topilgani yoki topilmagani haqida konsolga ma’lumot chiqaring.
+b) ArrayListdan nusxa oling.
+c) ArrayList elementlarni aralashtirish uchun dastur yozing.

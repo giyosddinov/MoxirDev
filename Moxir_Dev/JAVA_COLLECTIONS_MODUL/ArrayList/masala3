@@ -1,0 +1,5 @@
+ArrayList topshiriq 3:
+a) ArrayList to’plami elementlarini teskari tartibda
+ joylashtiruvchi metod yozing.
+b) ArrayList to’plamini parametrida berilgan (int firstIndex, int lastIndex)
+ qiymatlar bo’yicha bo’lagini kesib oluvchi metod yozing.
