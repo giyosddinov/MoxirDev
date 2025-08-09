@@ -1,0 +1,24 @@
+Map
+Map topshiriqlari 1:
+a) HashMap to’plam yarating, hamda qiymatlar bilan to’ldiring.
+b) Ushbu to’plamni elementlarini key -> value sifatida chop eting.
+c) To’plam hajmini chop eting.
+
+Map topshiriqlari 2:
+a) Ikkita HashMap to’plamlarini birlashtiring.
+b) Birlashgan to’plamning faqat qiymatlarini ekranga chiqaruvchi metod yozing.
+c) Ushbu to’plamlarni hammasini tozalab yuboring.
+
+Map topshiriqlari 3:
+a) HashMap to’plamini klonini yarating.
+b) Klon qilingan to’plam elementlarini arrayList sifatida qaytaruvchi metod yozing.
+
+Map topshiriqlari 4:
+a) TreeMap to’plam yarating, hamda qiymatlar bilan to’ldiring.
+b) TreeMap to’plamning birinchi va oxirig elementlarini ekranga chiqaring.
+c) Ushbu to’plamning kalitlarini teskari tartibda ekranga chiqaring.
+
+Map topshiriqlari 5:
+a) TreeMap to’plami ichidan kalitlari parametrda (int key) berilgan kalit qiymatlaridan kichik bo’lgan kalit -> value juftliklarini chop eting.
+b) TreeMap kalitlarini TreeSet orqali ifodalang, hamda ekranga chop eting.
+c) TreeMap elementlarini barchasini o’chirib yuboring.
