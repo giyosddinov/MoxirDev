@@ -19,6 +19,7 @@ b) TreeMap to’plamning birinchi va oxirig elementlarini ekranga chiqaring.
 c) Ushbu to’plamning kalitlarini teskari tartibda ekranga chiqaring.
 
 Map topshiriqlari 5:
-a) TreeMap to’plami ichidan kalitlari parametrda (int key) berilgan kalit qiymatlaridan kichik bo’lgan kalit -> value juftliklarini chop eting.
+a) TreeMap to’plami ichidan kalitlari parametrda (int key) berilgan kalit
+qiymatlaridan kichik bo’lgan kalit -> value juftliklarini chop eting.
 b) TreeMap kalitlarini TreeSet orqali ifodalang, hamda ekranga chop eting.
 c) TreeMap elementlarini barchasini o’chirib yuboring.

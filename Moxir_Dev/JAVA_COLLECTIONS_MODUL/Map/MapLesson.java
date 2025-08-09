@@ -5,7 +5,8 @@ public class MapLesson {
         //MapTopshiriq1();
         //MapTopshiriq2();
         //MapTopshiriq3();
-        MapTopshiriq4();
+        //MapTopshiriq4();
+        MapTopshiriq5();
     }
     public static void MapTopshiriq1(){
         HashMap<Integer,String> map = new HashMap<>();
@@ -66,6 +67,27 @@ public class MapLesson {
         System.out.println("Map Teskari Tartibi -> "+map.reversed());
     }
     public static void MapTopshiriq5(){
+        Scanner scanner = new Scanner(System.in);
 
+        HashMap<Integer,String> map = new HashMap<>();
+        map.put(1,"salom");
+        map.put(2,"Ali");
+        map.put(3,"Javoxir");
+        map.put(4,"G'ani");
+        System.out.println("Map = "+map);
+        System.out.print("Key ni Kiriting -> ");
+        int key = scanner.nextInt();
+        for(Map.Entry<Integer,String> m: map.entrySet()){
+            if(m.getKey()<key){
+                System.out.println(m.getKey()+"-"+m.getValue());
+            }
+        }
+        TreeSet<Integer> set = new TreeSet<>();
+        for(Map.Entry<Integer,String> m:map.entrySet()){
+            set.add(m.getKey());
+        }
+        System.out.println("Set -> "+set);
+        map.clear();
+        System.out.println("Map Elementlari Tozalandi!");
     }
 }
