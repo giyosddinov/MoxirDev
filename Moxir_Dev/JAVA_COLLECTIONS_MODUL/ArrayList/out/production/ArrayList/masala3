@@ -1,4 +1,5 @@
-ArrayList topshiriq 4:
-a) Ikkita ArrayList to’plamini mos elementlari bilan solishtiruvchi
-va natijani boshqa to’plamga yozib ketuvchi metod yozing.
-Namuna: [“Green”,”Red”] & [“Green”,”Black”] -> result: [“Yes”,”No”];
+ArrayList topshiriq 3:
+a) ArrayList to’plami elementlarini teskari tartibda
+ joylashtiruvchi metod yozing.
+b) ArrayList to’plamini parametrida berilgan (int firstIndex, int lastIndex)
+ qiymatlar bo’yicha bo’lagini kesib oluvchi metod yozing.
