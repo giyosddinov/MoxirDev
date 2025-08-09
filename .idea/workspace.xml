@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="07f1a2b1-5427-49d5-8504-873e990e706f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MoxirDev.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moxir_Dev/JAVA_COLLECTIONS_MODUL/JAVA_COLLECTIONS_MODUL.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moxir_Dev/JAVA_COLLECTIONS_MODUL/Set/HashSetLesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/Moxir_Dev/JAVA_COLLECTIONS_MODUL/Set/HashSetLesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moxir_Dev/Moxir_Dev.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/.idea/ArrayList.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/.idea/LinkendList.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/.idea/Set.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/HashSetLesson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/LinkendList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/Topshiriq_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/Topshiriq_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/Topshiriq_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/Topshiriq_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/Topshiriq_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/masala1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/masala2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/masala3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/masala4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/masala5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/masalalar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/out/production/ArrayList/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/out/production/ArrayList/.idea/ArrayList.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/out/production/ArrayList/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/out/production/ArrayList/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/out/production/ArrayList/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/out/production/ArrayList/masala1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/out/production/ArrayList/masala2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/out/production/ArrayList/masala3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/out/production/ArrayList/masala4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/out/production/ArrayList/masala5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/out/production/LinkendList/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/out/production/LinkendList/.idea/LinkendList.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/out/production/LinkendList/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/out/production/LinkendList/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/out/production/LinkendList/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_COLLECTIONS_MODUL/out/production/LinkendList/masalalar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="312slvmlwwSlGnN7AqQFbSbINj5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HashSetLesson.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07f1a2b1-5427-49d5-8504-873e990e706f" name="Changes" comment="" />
+      <created>1754733656533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754733656533</updated>
+    </task>
+    <servers />
+  </component>
+</project>

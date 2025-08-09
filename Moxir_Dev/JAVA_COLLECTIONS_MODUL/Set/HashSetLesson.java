@@ -7,7 +7,8 @@ public class HashSetLesson {
         //Set_Topshiriq_1();
         //Set_Topshiriq_2();
         //Set_Topshiriq_3();
-        Set_Topshiriq_4();
+        //Set_Topshiriq_4();
+        Set_Topshiriq_5();
     }
     public static void Set_Topshiriq_1(){
         HashSet<Integer> set = new HashSet<>();
@@ -66,15 +67,77 @@ public class HashSetLesson {
     }
     public static void Set_Topshiriq_4(){
         HashSet<Integer> set = new HashSet<>();
-        
-    }
-    public static void Topshiriq4MetodA(){
+        set.add(0);set.add(3);set.add(5);set.add(6);
 
-    }
-    public static void Topshiriq4MetodB(){
+        HashSet<Integer> set1 = new HashSet<>();
+        set1.add(0);set1.add(3);set1.add(5);set1.add(9);
 
+        Topshiriq4MetodA(set,set1);
+        Topshiriq4MetodB(set,set1);
+    }
+    public static void Topshiriq4MetodA(HashSet<Integer> set,HashSet<Integer> set1){
+        ArrayList<Integer> list = new ArrayList<>();
+        for(Integer s:set){
+            if(set1.contains(s)){
+                list.add(s);
+            }
+        }
+        System.out.println("Natija: "+set+"&"+set1+"-> Result = "+list);
+    }
+    public static void Topshiriq4MetodB(HashSet<Integer> set,HashSet<Integer> set1){
+        ArrayList<Integer> list = new ArrayList<>();
+        for(Integer s:set){
+            if(!set1.contains(s)){
+                list.add(s);
+            }
+        }
+        System.out.println("Natija: "+set+"&"+set1+"-> Result = "+list);
     }
     public static void Set_Topshiriq_5(){
+        HashSet<Integer> set = new HashSet<>();
+        set.add(0);set.add(1);set.add(5);
 
+        HashSet<Integer> set1 = new HashSet<>();
+        set1.add(3);set1.add(1);set1.add(7);
+
+        Topshiriq5MetodA(set,set1);
+        Topshiriq5MetodB(set,set1);
+        Topshiriq5MetodC(set,set1);
+    }
+    public static void Topshiriq5MetodA(HashSet<Integer> set,HashSet<Integer> set1){
+        ArrayList<Integer> list = new ArrayList<>();
+        for(Integer s:set){
+            if(!set1.contains(s)){
+                list.add(s);
+            }
+        }
+        System.out.println("Natija: "+set+"&"+set1+"-> Reult = "+list);
+    }
+    public static void Topshiriq5MetodB(HashSet<Integer> set,HashSet<Integer> set1){
+        ArrayList<Integer> list = new ArrayList<>();
+        for(Integer s:set1){
+            if(!set.contains(s)){
+                list.add(s);
+            }
+        }
+        System.out.println("Natija: "+set+"&"+set1+"-> Reult = "+list);
+    }
+    public static void Topshiriq5MetodC(HashSet<Integer> set,HashSet<Integer> set1){
+        ArrayList<Integer> list = new ArrayList<>();
+        int sana =1;
+        for(Integer s:set){
+            if(sana%2==0){
+                list.add(s);
+            }
+            sana+=1;
+        }
+        sana =1;
+        for(Integer s:set1){
+            if(sana%2==0){
+                list.add(s);
+            }
+            sana+=1;
+        }
+        System.out.println("Natija: "+set+"&"+set1+"-> Reult = "+list);
     }
 }
