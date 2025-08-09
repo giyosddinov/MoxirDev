@@ -1,0 +1,4 @@
+ArrayList topshiriq 4:
+a) Ikkita ArrayList to’plamini mos elementlari bilan solishtiruvchi
+va natijani boshqa to’plamga yozib ketuvchi metod yozing.
+Namuna: [“Green”,”Red”] & [“Green”,”Black”] -> result: [“Yes”,”No”];

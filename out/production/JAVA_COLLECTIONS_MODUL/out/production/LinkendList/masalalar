@@ -1,0 +1,31 @@
+LinkedList
+LinkedList topshiriq 1:
+a) LinkedList to’plam yarating, uni qiymatlar bilan to’ldiring.
+b) Ushbu to’plam elementlarini iterator orqali ekranga chiqaruvchi method yozing.
+c) Ushbu to’plamning hajmini ekranga chiqarib, to’plamni elementlardan
+tozalab yuvoring.
+
+LinkedList topshiriq 2:
+a) LinkedList to’plamini teskari tartibda ekranga chiqaruvchi metod yozing.
+b) LinkedList to’plamini boshiga hamda oxiriga element qo’shing.
+c) LinkedList to’plamini boshidagi hamda oxiridagi elementlarni ekranga chiqaring.
+
+LinkedList topshiriq 3:
+a) LinkedList to’plamidan ma’lum bir indexdagi qiymatni o’chiruvchi metod yozing.
+b) LinkedList to’plamidan birinchi va oxirgi elementni o’chirib, so’ng, shu o’chgan
+elementlarni ekranga chiqaruvchi metod yozing.
+c) LinkedList to’plamining barcha elementlarini o’chirib yuboring.
+
+LinkedList topshiriqlari 4:
+a) Ikkita LinkedList to’plamini birlashtiruvchi, hamda birlashgan to’plamni
+ qaytaruvchi metod yozing.
+b) LinkedList to’plamini nusxasini yarating.
+c) LinkedList to’plamining birinchi elementini o’chiruvchi, hamda qolgan
+elementlarini ekranga chiqaruvchi metod yozing
+
+ LinkedList topshiriqlari 5:
+a) LinkedList to’plam elementlari o’rnini aralashtirib yuboruvchi metod yozing.
+b) LinkedList to’plam elementlarini ArrayList to’plamiga ko’chirib o’tkazing.
+c) LinkedList to’plam elementlarini o’sish tartibida saralang, hamda ichidan
+biror element bor yoki yo’qligini aniqlang.
+
