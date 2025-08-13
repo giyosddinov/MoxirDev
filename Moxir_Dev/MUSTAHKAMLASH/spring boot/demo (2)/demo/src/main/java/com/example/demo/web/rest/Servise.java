@@ -10,29 +10,31 @@ import java.util.List;
 @RestController
 @RequestMapping("/api")
 public class Servise {
-    Student student = new Student("Javoxir","Giyosddinov",1);
-    Student student1 = new Student("ali","Giyosddinov",2);
-    Student student2 = new Student("vali","Giyosddinov",3);
-    List<Student> students = new ArrayList<>();
-    @GetMapping("/student")
-    public ResponseEntity metodGet(){;
-        students.add(student);
-        students.add(student1);
-        students.add(student2);
-        return ResponseEntity.ok(students);
+    @PostMapping("/student/{id}")
+    public ResponseEntity creat(@PathVariable int id,@RequestBody Student student){
+        student.setId(id);
+        return ResponseEntity.ok(student.getId());
     }
-    @PostMapping("/student")
-    public ResponseEntity creat(@RequestBody Student student){
+    @GetMapping("/student/{id}")
+    public ResponseEntity Student(@PathVariable int id){
+        Student student = new Student("javoxir","Giyosddinov",12);
         return ResponseEntity.ok(student);
     }
-    @PutMapping("/student/{id}")
-    public ResponseEntity update(@PathVariable @RequestBody int id){
-        for(int i=0;i<students.size();i++){
-            if(students.get(i).equals(id)){
-                students.get(i).setId(5);
-                break;
-            }
-        }
+    @GetMapping("/student/all")
+    public ResponseEntity getall(@RequestParam String name,
+                                 @RequestParam String lastname,
+                                 @RequestParam int id){
+        List<Student> students = new ArrayList<>();
+        students.add(new Student(name,lastname,id));
+        students.add(new Student("javoxir","Giyosddinov",3));;
         return ResponseEntity.ok(students);
+    }
+    @PatchMapping("/student")
+    public ResponseEntity patchmetod(@RequestBody Student student){
+        return ResponseEntity.ok(student);
+    }
+    @DeleteMapping("/student/{id}")
+    public ResponseEntity delete(@PathVariable int id){
+        return ResponseEntity.ok(id+"Malumot ochirildi!");
     }
 }
